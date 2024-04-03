@@ -26,7 +26,21 @@ console.log(information);
 ```
 
 
+## The packages ​​I know :
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+
+## The packages ​​I am learning : 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+
+<h2 align="left">Contact me 📞</h2>
+<a href="https://instagram.com/hossein.front.js"><img width="50px" height="50px" align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
+<a href="https://t.me/ulasoy"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
+
+<br/>
+<br/>
 
 
 ## My Activities : 
