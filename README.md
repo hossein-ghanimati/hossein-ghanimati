@@ -6,7 +6,7 @@ const information = getInfo("hossein-ghanimati")
 console.log(information);
 ```
 
-## outPut : 
+#### outPut : 
 
 ``` json
 {
