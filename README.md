@@ -26,21 +26,26 @@ console.log(information);
 ```
 
 
-## The packages ​​I know :
+<h2>🖥 &nbsp; The packages ​​I know :</h2>
 
-<img width="50" height="50" align="left" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" />
-<img width="50" height="50" align="left" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" />
-<img width="50" height="50" align="left" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JS" />
+<p align="center">
+    <img width="50" height="50" align="center" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" />
+    <img width="50" height="50" align="center" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" />
+    <img width="50" height="50" align="center" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JS" />
+</p>
 
 
 <br/>
 <br/>
 
-## The packages ​​I am learning : 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<h2>🎓 &nbsp; The packages ​​I am learning :</h2>
+    
+<p align="center">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 
-## The tools I work with :
+<h2>🔧 &nbsp; The tools I work with :</h2>
 
 
 <img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" />
@@ -55,18 +60,26 @@ console.log(information);
 <br/>
 <br/>
 
-<h2 align="left">Contact me 📞</h2>
+<h2 align="left">📞 &nbsp; Contact me </h2>
 
-<a href="https://instagram.com/hossein.front.js"><img width="50px" height="50px" align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
-<a href="https://t.me/ulasoy"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
-<a href="https://hossein-ghanimati.github.io/asancode"><img width="50px" height="50px"  align="left" src="https://github.com/hossein-ghanimati/hossein-ghanimati/blob/main/6471842.png?raw=true" alt="WebSite" /></a>
+<p align="center">
+  <a href="https://hossein-ghanimati.github.io/asancode">
+    <img src="https://img.shields.io/badge/Website-AsanCode-green?style=flat&logo=google-chrome" />
+  </a>
+  <a href="https://instagram.com/hossein.front.js/">
+    <img src="https://img.shields.io/badge/Instagram-@hossein.front.js-red?style=flat&logo=instagram" />
+  </a>
+  <a href="https://t.me/ulasoy/">
+    <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-blue?style=flat&logo=telegram" />
+  </a>
+</p>
 
 
 
 <br />
 <br />
 
-<h2 align="left">What am I doing now? 🌚</h2>
+<h2 align="left">👨‍💻 &nbsp; What am I doing now? </h2>
 
  <h3 align="left">🌟 Learning Git & GitHub</h3>
  <h3 align="center">🌟 Learning Tailwind</h3>
@@ -78,18 +91,20 @@ console.log(information);
 <br/>
 <br/>
 
+<h2>
+    ⚡️ &nbsp; My Gitub Stat :
+</h2>
 
-## My Activities : 
-<img src="https://github-readme-stats.vercel.app/api?username=hossein-ghanimati&show_icons=true&theme=dark" />
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hossein-ghanimati&show_icons=true&theme=dark" />
+    <img alig="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-ghanimati&hide_progress=false" />
+</p>
 
 
-
-## MY Project Languages :
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-ghanimati&hide_progress=false" />
 
 ---
 
-## My Project : 
+<h2>🌐 &nbsp; My Project : </h2>
 
 | Project Name | Project Category | Project Language | Project Link |
 | --- | --- | --- | --- |
