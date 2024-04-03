@@ -91,6 +91,8 @@ console.log(information);
 <br/>
 <br/>
 
+---
+
 <h2>
     ⚡️ &nbsp; My Gitub Stat :
 </h2>
@@ -102,7 +104,6 @@ console.log(information);
 
 
 
----
 
 <h2>🌐 &nbsp; My Project : </h2>
 
@@ -111,7 +112,13 @@ console.log(information);
 | Aliot Page | Personal | HTML CSS | [aliot-prj](https://hossein-ghanimati.github.io/aliot-prj/) |
 | Asancode Site | Educational | HTML CSS JS | [asancode](https://hossein-ghanimati.github.io/asancode/) |
 
----
+
+<h2>💪 &nbsp; My Trophies :</h2>
+
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=hossein-ghanimati&theme=onedark" />    
+</p>
 
 <!--
 **hossein-ghanimati/hossein-ghanimati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
