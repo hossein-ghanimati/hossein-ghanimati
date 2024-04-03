@@ -36,6 +36,18 @@ console.log(information);
 
 ## MY Project Languages :
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-ghanimati&hide_progress=false" />
+
+---
+
+## My Project : 
+
+| Project Name | Project Category | Project Language | Project Link |
+| --- | --- | --- | --- |
+| Aliot Page | Personal | HTML CSS | [aliot-prj](https://hossein-ghanimati.github.io/aliot-prj/) |
+| Asancode Site | Educational | HTML CSS JS | [asancode](https://hossein-ghanimati.github.io/asancode/) |
+
+---
+
 <!--
 **hossein-ghanimati/hossein-ghanimati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
