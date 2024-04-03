@@ -48,7 +48,7 @@ const getInfo = username => {
         description : getData("description")
     }
 
-    return info
+    return JSON.stringify(info)
 }
 
 const information = getInfo("hossein-ghanimati") 
@@ -59,22 +59,18 @@ console.log(information);
 
 ``` json
 {
-    name: 'Hossein Ghanimati',
-    skills: 'HTML CSS JS',
-    workSamples: [
-      {
-        name: 'asancode training site',
-        category: 'training',
-        languages: 'HTML, CSS, JS',
-        description: '\n' +
-          '                        An educational site with all facilities, responsive and with a management panel\n' +
-          '                    ',
-        link: 'https://hossein-ghanimati.github.io/asancode'
-      }
+    "name": "Hossein Ghanimati",
+    "skills": "HTML CSS JS",
+    "workSamples": [
+        {
+            "name": "asancode training site",
+            "category": "training",
+            "languages": "HTML, CSS, JS",
+            "description":"An educational site with all facilities, responsive and with a management panel",
+            "link":"https: //hossein-ghanimati.github.io/asancode"
+        }
     ],
-    description: "Hi guys. I'm Front End Developer. My skills are HTML, CSS and javascript. I have been in the front-end world for almost a year\n" +
-      '            And I have been dealing with the dear JavaScript language for almost 9 months\n' +
-      '            I have recently mastered Javascript and am about to start learning React'
+    "description":"Hi guys. I'm Front End Developer. My skills are HTML, CSS and javascript. I have been in the front-end world for almost a year \nAnd I have been dealing with the dear JavaScript language for almost 9 months \nI have recently mastered Javascript and am about to start learning React"
 }
 ```
 
