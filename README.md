@@ -39,7 +39,7 @@ console.log(information);
 <a href="https://instagram.com/hossein.front.js"><img width="50px" height="50px" align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
 <a href="https://t.me/ulasoy"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
 <a href="https://hossein-ghanimati.github.io/asancode"><img width="50px" height="50px"  align="left" src="https://github.com/hossein-ghanimati/hossein-ghanimati/blob/main/6471842.png?raw=true" alt="WebSite" /></a>
-<a href="https://github.com/hossein-ghanimati/hossein-ghanimati/issues"><img width="50px" height="50px"  align="left" src="https://github.com/hossein-ghanimati/hossein-ghanimati/blob/main/6471842.png?raw=true" alt="WebSite" /></a>
+
 
 <br/>
 <br/>
