@@ -70,7 +70,7 @@ console.log(information);
     <img src="https://img.shields.io/badge/Instagram-@hossein.front.js-red?style=flat&logo=instagram" />
   </a>
   <a href="https://t.me/ulasoy/">
-    <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-blue?style=flat&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@ulasoy-blue?style=flat&logo=telegram" />
   </a>
 </p>
 
