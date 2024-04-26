@@ -107,10 +107,11 @@ console.log(information);
 
 <h2>🌐 &nbsp; My Project : </h2>
 
-| Project Name | Project Category | Project Language | Project Link |
+| Project Name | Project Category | Project Pachages | Project Link |
 | --- | --- | --- | --- |
 | Aliot Page | Personal | HTML CSS | [aliot-prj](https://hossein-ghanimati.github.io/aliot-prj/) |
 | Asancode Site | Educational | HTML CSS JS | [asancode](https://hossein-ghanimati.github.io/asancode/) |
+| Fastkasrt Site | Shopping | HTML CSS JS Tailwind | [fastkart](https://hossein-ghanimati.github.io/fastkart/) |
 
 
 <h2>💪 &nbsp; My Trophies :</h2>
