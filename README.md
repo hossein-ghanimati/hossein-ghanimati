@@ -29,9 +29,7 @@ console.log(information);
 <h2>🖥 &nbsp; The packages ​​I know :</h2>
 
 <p align="center">
-    <img width="50" height="50" align="center" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" />
-    <img width="50" height="50" align="center" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" />
-    <img width="50" height="50" align="center" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JS" />
+   <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,typescript,materialui"/>
 </p>
 
 
