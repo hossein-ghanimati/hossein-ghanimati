@@ -36,12 +36,6 @@ console.log(information);
 <br/>
 <br/>
 
-<h2>🎓 &nbsp; The packages ​​I am learning :</h2>
-    
-<p align="center">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
 
 <h2>🔧 &nbsp; The tools I work with :</h2>
 
