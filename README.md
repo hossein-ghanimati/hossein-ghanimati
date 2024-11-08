@@ -26,6 +26,16 @@ console.log(information);
 <br/>
 <br/>
 
+<h2>🌐 &nbsp; My Project : </h2>
+
+| Project Name | Project Category | Project Pachages | Project Link |
+| --- | --- | --- | --- |
+| Roocket Site | Educational | React Tailwind TS | [Roocket](https://github.com/hossein-ghanimati/roocket/)) |
+| Fastkasrt Site | Shopping | HTML CSS JS Tailwind | [Fastkart](https://hossein-ghanimati.github.io/fastkart/) |
+| Divar Site | Business website | HTML CSS JS | [Divar](https://hossein-ghanimati.github.io/divar/) |
+| Asancode Site | Educational | HTML CSS JS | [Asancode](https://hossein-ghanimati.github.io/asancode/) |
+
+
 
 <h2>🔧 &nbsp; The tools I work with :</h2>
 
@@ -63,9 +73,9 @@ console.log(information);
 
 <h2 align="left">👨‍💻 &nbsp; What am I doing now? </h2>
 
- <h3 align="left">🌟 Learning Git & GitHub</h3>
- <h3 align="center">🌟 Learning Tailwind</h3>
- <h3 align="right">🌟 Developing Divar Project</h3>
+ <h3 align="left">🌟 Learning Front Packages</h3>
+ <h3 align="center">🌟 Strengthen Soft-skills</h3>
+ <h3 align="right">🌟Learning Nex.js</h3>
 
 
 
@@ -85,16 +95,6 @@ console.log(information);
 </p>
 
 
-
-
-<h2>🌐 &nbsp; My Project : </h2>
-
-| Project Name | Project Category | Project Pachages | Project Link |
-| --- | --- | --- | --- |
-| Roocket Site | Educational | React Tailwind TS | [Roocket](https://github.com/hossein-ghanimati/roocket/)) |
-| Fastkasrt Site | Shopping | HTML CSS JS Tailwind | [Fastkart](https://hossein-ghanimati.github.io/fastkart/) |
-| Divar Site | Business website | HTML CSS JS | [Divar](https://hossein-ghanimati.github.io/divar/) |
-| Asancode Site | Educational | HTML CSS JS | [Asancode](https://hossein-ghanimati.github.io/asancode/) |
 
 
 <h2>💪 &nbsp; My Trophies :</h2>
