@@ -30,7 +30,7 @@ console.log(information);
 
 | Project Name | Project Category | Project Pachages | Project Link |
 | --- | --- | --- | --- |
-| Roocket Site | Educational | React Tailwind TS | [Roocket](https://github.com/hossein-ghanimati/roocket/)) |
+| Roocket Site | Educational | React Tailwind TS | [Roocket](https://github.com/hossein-ghanimati/roocket/) |
 | Fastkasrt Site | Shopping | HTML CSS JS Tailwind | [Fastkart](https://hossein-ghanimati.github.io/fastkart/) |
 | Divar Site | Business website | HTML CSS JS | [Divar](https://hossein-ghanimati.github.io/divar/) |
 | Asancode Site | Educational | HTML CSS JS | [Asancode](https://hossein-ghanimati.github.io/asancode/) |
