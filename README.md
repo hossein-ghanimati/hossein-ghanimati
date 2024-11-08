@@ -21,7 +21,7 @@ console.log(information);
             "link":"https://hossein-ghanimati.github.io/asancode"
         }
     ],
-    "description":"Hi guys. I'm Front End Developer. My skills are HTML, CSS and javascript. I have been in the front-end world for almost a year \nAnd I have been dealing with the dear JavaScript language for almost 9 months \nI have recently mastered Javascript and am about to start learning React"
+    "description":"Hi guys. I'm Front End Developer. My skills are HTML, CSS , javascript, tailwind, react, typescript (and some other packages). I have been in the front-end world for almost 1\5 year \nAnd I have been dealing with the dear JavaScript language for almost 1 year and 2 month \nI have recently mastered react and am about to start learning Next"
 }
 ```
 
