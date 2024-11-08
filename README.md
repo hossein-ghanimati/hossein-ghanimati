@@ -11,16 +11,6 @@ console.log(information);
 ``` json
 {
     "name": "Hossein Ghanimati",
-    "skills": "HTML CSS JS",
-    "workSamples": [
-        {
-            "name": "asancode training site",
-            "category": "training",
-            "languages": "HTML, CSS, JS",
-            "description":"An educational site with all facilities, responsive and with a management panel",
-            "link":"https://hossein-ghanimati.github.io/asancode"
-        }
-    ],
     "description":"Hi guys. I'm Front End Developer. My skills are HTML, CSS , javascript, tailwind, react, typescript (and some other packages). I have been in the front-end world for almost 1\5 year \nAnd I have been dealing with the dear JavaScript language for almost 1 year and 2 month \nI have recently mastered react and am about to start learning Next"
 }
 ```
