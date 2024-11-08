@@ -91,9 +91,10 @@ console.log(information);
 
 | Project Name | Project Category | Project Pachages | Project Link |
 | --- | --- | --- | --- |
-| Aliot Page | Personal | HTML CSS | [aliot-prj](https://hossein-ghanimati.github.io/aliot-prj/) |
-| Asancode Site | Educational | HTML CSS JS | [asancode](https://hossein-ghanimati.github.io/asancode/) |
-| Fastkasrt Site | Shopping | HTML CSS JS Tailwind | [fastkart](https://hossein-ghanimati.github.io/fastkart/) |
+| Rooket Site | Educational | React Tailwind TS | None |
+| Fastkasrt Site | Shopping | HTML CSS JS Tailwind | [Fastkart](https://hossein-ghanimati.github.io/fastkart/) |
+| Divar Site | Business website | HTML CSS JS | [Divar](https://hossein-ghanimati.github.io/divar/) |
+| Asancode Site | Educational | HTML CSS JS | [Asancode](https://hossein-ghanimati.github.io/asancode/) |
 
 
 <h2>💪 &nbsp; My Trophies :</h2>
