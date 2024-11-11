@@ -73,11 +73,11 @@ console.log(information);
 
 <h2 align="left">👨‍💻 &nbsp; What will I do </h2>
 
- <h3 align="center">🌟Will Have Strengthen Soft-skills</h3>
+ <h3 align="center">🌟I'll Have Strengthen Soft-skills</h3>
 
- <h3 align="left">🌟Will Have Learn Front Other Packages</h3>
+ <h3 align="left">🌟I'll Have Learn Front Other Packages</h3>
 
- <h3 align="right">🌟Will Have develop a big project</h3>
+ <h3 align="right">🌟I'll Have develop a big project</h3>
 
 
 
