@@ -71,11 +71,13 @@ console.log(information);
 <br />
 <br />
 
-<h2 align="left">👨‍💻 &nbsp; What am I doing now? </h2>
+<h2 align="left">👨‍💻 &nbsp; What will I do </h2>
 
- <h3 align="left">🌟 Learning Front Packages</h3>
- <h3 align="center">🌟 Strengthen Soft-skills</h3>
- <h3 align="right">🌟Learning Nex.js</h3>
+ <h3 align="center">🌟Will Have Strengthen Soft-skills</h3>
+
+ <h3 align="left">🌟Will Have Learn Front Other Packages</h3>
+
+ <h3 align="right">🌟Will Have develop a big project</h3>
 
 
 
