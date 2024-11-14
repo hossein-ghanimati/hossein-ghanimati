@@ -48,7 +48,7 @@ console.log(information);
 
 <h2>🌐 &nbsp; My Project : </h2>
 
-| Project Name | Project Category | Project Pachages | Project Link |
+| Project Name | Project Category | Project Packages | Project Link |
 | --- | --- | --- | --- |
 | Roocket Site | Educational | React Tailwind TS | [Roocket](https://github.com/hossein-ghanimati/roocket/) |
 | Fastkasrt Site | Shopping | HTML CSS JS Tailwind | [Fastkart](https://hossein-ghanimati.github.io/fastkart/) |
