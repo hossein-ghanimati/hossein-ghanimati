@@ -59,15 +59,9 @@ console.log(information);
 
 <h2>🔧 &nbsp; The tools I work with :</h2>
 
-
-<img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" />
-<img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vs-code" />
+<img src="https://skillicons.dev/icons?i=postman,vscode,git,github,figma,npm,vite"/>
 <img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest-api" />
-<img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git"/>
-<img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" />
 <img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swager" />
-<img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" />
-<img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="NPM" />
 
 <br/>
 <br/>
@@ -113,7 +107,7 @@ console.log(information);
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=hossein-ghanimati&show_icons=true&theme=dark" />
-    <img alig="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-ghanimati&hide_progress=false" />
+    <img alig="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-ghanimati&hide_progress=false&theme=dark" />
 </p>
 
 
