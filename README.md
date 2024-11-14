@@ -19,8 +19,26 @@ console.log(information);
 <h2>🖥 &nbsp; My Skills :</h2>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,typescript"/>
+   <img src="https://skillicons.dev/icons?i=js,graphql,tailwind,react,typescript"/>
 </p>
+
+<br>
+
+<h2>🖥 &nbsp; Other Packages I Know :</h2>
+
+
+![Formik](https://img.shields.io/badge/formik-%230081CB.svg?style=for-the-badge&logo=formik&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23EC5990.svg?style=for-the-badge&logo=git&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%332f2f.svg?style=for-the-badge&logo=axios&logoColor=white&color=black)
+![Swiper](https://img.shields.io/badge/swiper-32f2f.svg?style=for-the-badge&logo=swiper&logoColor=white&color=blue)
+
+
 
 
 <br/>
@@ -73,9 +91,9 @@ console.log(information);
 
 <h2 align="left">👨‍💻 &nbsp; What will I do </h2>
 
- <h3 align="center">🌟I'll Have Strengthen Soft-skills</h3>
+ <h3 align="left">🌟I'll Have Strengthen Soft-skills</h3>
 
- <h3 align="left">🌟I'll Have Learn Front Other Packages</h3>
+ <h3 align="center">🌟I'll Have Learn Front Other Packages</h3>
 
  <h3 align="right">🌟I'll Have develop a big project</h3>
 
