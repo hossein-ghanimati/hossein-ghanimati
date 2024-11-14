@@ -16,7 +16,7 @@ console.log(information);
 ```
 
 
-<h2>🖥 &nbsp; The packages ​​I know :</h2>
+<h2>🖥 &nbsp; My Skills :</h2>
 
 <p align="center">
    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,typescript,materialui"/>
