@@ -105,19 +105,8 @@ console.log(information);
     ⚡️ &nbsp; My Gitub Stat :
 </h2>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hossein-ghanimati&show_icons=true&theme=dark" />
-    <img alig="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-ghanimati&hide_progress=false&theme=dark" />
-</p>
-
-
-
-
-<h2>💪 &nbsp; My Trophies :</h2>
-
-
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hossein-ghanimati&theme=onedark" />    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-ghanimati&hide_progress=false&theme=dark" />
 </p>
 
 <!--
