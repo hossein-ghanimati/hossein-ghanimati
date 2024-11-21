@@ -91,7 +91,7 @@ console.log(information);
 
  <h3 align="center">🌟I'll Have Learn Front Other Packages</h3>
 
- <h3 align="right">🌟I'll Have develop a big project</h3>
+
 
 
 
