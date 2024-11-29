@@ -89,11 +89,13 @@ console.log(information);
 
  <h3 align="left">🌟I'll Have Learn Redux</h3>
 
- <h3 align="center">🌟I'll Have Learn Front Other Packages</h3>
+ <h3 align="center">🌟I'll Have Learn Websocket</h3>
 
-  <h3 align="right">🌟I'll Have Learn Angular Or Next.js</h3>
+  <h3 align="right">🌟I'll Have Learn Zustand</h3>
 
-
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=redux,websocket,zustand"/>
+</p>
 
 
 
