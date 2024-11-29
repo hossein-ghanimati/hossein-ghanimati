@@ -37,7 +37,9 @@ console.log(information);
 ![Git](https://img.shields.io/badge/git-%23EC5990.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-%332f2f.svg?style=for-the-badge&logo=axios&logoColor=white&color=black)
 ![Swiper](https://img.shields.io/badge/swiper-32f2f.svg?style=for-the-badge&logo=swiper&logoColor=white&color=blue)
+![React Router](https://img.shields.io/badge/shadcnui-%23E34F26.svg?style=for-the-badge&logo=shadcnui&logoColor=white&color=black)
 ![React Router](https://img.shields.io/badge/reactrouter-%23E34F26.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Router](https://img.shields.io/badge/nextui-%23E34F26.svg?style=for-the-badge&logo=nextui&logoColor=white&color=black)
 
 
 
@@ -91,10 +93,12 @@ console.log(information);
 
  <h3 align="center">🌟I'll Have Learn Websocket</h3>
 
-  <h3 align="right">🌟I'll Have Learn Zustand</h3>
+  <h3 align="right">🌟I'll Have Learn Next</h3>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=redux,websocket,zustand"/>
+   <img src="https://skillicons.dev/icons?i=redux,nextjs"/>
+   <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg"/>
+   
 </p>
 
 
